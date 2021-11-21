@@ -17,7 +17,8 @@ Analista e desenvolvedora de sistemas com experiência na área de suporte, test
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p><p align="center">
-  
-  
-<img src="https://github-readme-stats.vercel.app/api?username=CarolineCunha&show_icons=true&theme=radical" alt="CarolineCunha"/> 
 </p>
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=CarolineCunha&show_icons=true&theme=radical" alt="CarolineCunha" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineCunha&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
+
