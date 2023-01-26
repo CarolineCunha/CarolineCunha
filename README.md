@@ -1,6 +1,6 @@
 # Caroline da Cunha Batista
 
-Analista e desenvolvedora de sistemas com experiência na área de suporte, testes manuais e desenvolvimento RPA. Atualmente estou realizando cursos voltados para desenvolvimento de sistemas (Nodejs, Reactjs) para aperfeiçoamento.
+Formada em Análise e Desenvolvimento de Sistemas (FATEC) trabalhei durante seis anos com atendimento ao cliente na área de suporte técnico, há cerca de dois anos realizei a transição de carreira e atualmente trabalho como Engenheira de Software.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caroline%20da%20Cunha%20Batista-FF1493?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-da-cunha-batista-430280a7/)](https://www.linkedin.com/in/caroline-da-cunha-batista-430280a7/) 
 [![Hotmail Badge](https://img.shields.io/badge/-caroline.cunha.b@hotmail.com-FF1493?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:caroline.cunha.b@hotmail.com)](mailto:caroline.cunha.b@hotmail.com)
